@@ -2,21 +2,21 @@
 13 11 4 5 8 0 14 15 12 1 3 2 7 9 10 6
 1
 
-1) 	**BFS**
+1)	**BFS**
 
 Encontrou a solução!
 
-Tempo de execução(segundos): 0,177 ms
-Espaço de memória: 31  MB
-Nível de Profundidade: 11
+Tempo de execução: 0,157 ms
+Espaço de memória: 20  MB
+Nível de Profundidade: 12
 Caminho: ecdcdbebbecc
-Nós gerados: 67636
+Nós gerados: 72642
 
 2)	**DFS**
 
 Encontrou a solução!
 
-Tempo de execução(segundos): 5,942 ms
+Tempo de execução: 5,942 ms
 Espaço de memória: 10  MB
 Nível de Profundidade: 80
 Caminho: dceeecdddbeeecdddbeeecdddbeeecdddbeeecdddbeeecdddbeeecdddbecdbbeeccddbecebdbbecc
@@ -26,7 +26,7 @@ Nós gerados: 10374120
 
 Encontrou a solução!
 
-Tempo de execução(segundos): 0,143 ms
+Tempo de execução: 0,143 ms
 Espaço de memória: 54  MB
 Nível de Profundidade: 12
 Caminho: ecdcdbebbecc

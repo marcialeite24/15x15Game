@@ -1,0 +1,81 @@
+6 12 0 9 14 2 5 11 7 8 4 13 3 10 1 15
+14 6 12 9 7 2 5 11 8 4 13 15 3 0 10 1
+5 4
+
+1)	**BFS**
+
+Encontrou a solução!
+
+Tempo de execução: 0,074 ms
+Espaço de memória: 6  MB
+Nível de Profundidade: 10
+Caminho: eebbdddbee
+Nós gerados: 13892
+
+2)	**DFS**
+
+Encontrou a solução!
+
+Tempo de execução: 3,171 ms
+Espaço de memória: 85  MB
+Nível de Profundidade: 78
+Caminho: dbeeecdddbeeecdddbeeecdddbeeecdddbeeecdddbeeecdddbeeecdddbeebddbeeccddceeebbdb
+Nós gerados: 5228191
+
+3)	**IDFS**
+
+Encontrou a solução!
+
+Tempo de execução: 0,059 ms
+Espaço de memória: 11  MB
+Nível de Profundidade: 10
+Caminho: eebbdddbee
+Nós gerados: 5963
+
+4.1)    Greedy
+
+Opção: 1
+
+Encontrou a solução!
+
+Tempo de execução: 0,031 ms
+Espaço de memória: 0  MB
+Nível de Profundidade: 10
+Caminho: eebbdddbee
+Nós gerados: 31
+
+4.2)    Greedy
+
+Opção: 2
+
+Encontrou a solução!
+
+Tempo de execução: 0,029 ms
+Espaço de memória: 0  MB
+Nível de Profundidade: 10
+Caminho: eebbdddbee
+Nós gerados: 31
+
+5.3)    A*
+
+Opção: 3
+
+Encontrou a solução!
+
+Tempo de execução: 0,042 ms
+Espaço de memória: 0  MB
+Nível de Profundidade: 10
+Caminho: eebbdddbee
+Nós gerados: 31
+
+5.4)    A*
+
+Opção: 4
+
+Encontrou a solução!
+
+Tempo de execução: 0,027 ms
+Espaço de memória: 0  MB
+Nível de Profundidade: 10
+Caminho: eebbdddbee
+Nós gerados: 31

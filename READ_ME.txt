@@ -32,7 +32,7 @@
 #                                                                       #
 #      BFS(Breadth-First Search): Pesquisa em Largura                   #
 #      DFS(Depth-First Search): Pesquisa em Profundidade                #
-#      IDFS(Interative Depth Search): Pesquisa Interativa em            #
+#      IDFS(Iterative Depth Search): Pesquisa Iterativa em              #
 #                                     Profundidade                      #
 #      Greedy: Pesquisa Gulosa, usa uma heurística para avaliar os      #
 #              nós(f(N) = h(N))                                         #
